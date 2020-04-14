@@ -10,3 +10,8 @@
 7. php artisan migrate
 8. php artisan cache:clear
 9. php artisan serve
+10. php artisan make:controller PostsController
+11. php artisan make:model Post -m
+12. Adding title and body in migration file of create post
+13. Delete PostsController
+14. php artisan make:controller PostsController --resource
