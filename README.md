@@ -15,3 +15,6 @@
 12. Adding title and body in migration file of create post
 13. Delete PostsController
 14. php artisan make:controller PostsController --resource
+15. Making model in Posts Model (table, id, timestamps)
+16. Making Post view pages
+17. Show data with eliquent
